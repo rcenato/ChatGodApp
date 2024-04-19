@@ -7,14 +7,26 @@ import pygame
 
 AZURE_VOICES = [
     "en-US-DavisNeural",
-    "en-US-TonyNeural",
-    "en-US-JasonNeural",
-    "en-US-GuyNeural",
-    "en-US-JaneNeural",
-    "en-US-NancyNeural",
-    "en-US-JennyNeural",
-    "en-US-AriaNeural",
-]
+    "pt-BR-FranciscaNeural",
+    "pt-BR-AntonioNeural",
+    "pt-BR-BrendaNeural",
+    "pt-BR-DonatoNeural",
+    "pt-BR-ElzaNeural",
+    "pt-BR-FabioNeural",
+    "pt-BR-GiovannaNeural",
+    "pt-BR-Neural",
+    "pt-BR-Neural",
+]    
+#AZURE_VOICES = [
+#    "en-US-DavisNeural",
+#    "en-US-TonyNeural",
+#    "en-US-JasonNeural",
+#    "en-US-GuyNeural",
+#    "en-US-JaneNeural",
+#    "en-US-NancyNeural",
+#    "en-US-JennyNeural",
+#    "en-US-AriaNeural",
+#]
 
 AZURE_VOICE_STYLES = [
     # Currently using the 9 of the 11 available voice styles
