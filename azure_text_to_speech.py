@@ -14,8 +14,8 @@ AZURE_VOICES = [
     "pt-BR-ElzaNeural",
     "pt-BR-FabioNeural",
     "pt-BR-GiovannaNeural",
-    "pt-BR-Neural",
-    "pt-BR-Neural",
+    "pt-BR-HumbertoNeural",
+    "pt-BR-JulioNeural",
 ]    
 #AZURE_VOICES = [
 #    "en-US-DavisNeural",
