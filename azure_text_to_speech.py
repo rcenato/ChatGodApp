@@ -16,6 +16,13 @@ AZURE_VOICES = [
     "pt-BR-GiovannaNeural",
     "pt-BR-HumbertoNeural",
     "pt-BR-JulioNeural",
+    "pt-BR-LeilaNeural",
+    "pt-BR-LeticiaNeural",
+    "pt-BR-ManuelaNeural",
+    "pt-BR-NicolauNeural",
+    "pt-BR-ThalitaNeural",
+    "pt-BR-ValerioNeural",
+    "pt-BR-YaraNeural",
 ]    
 #AZURE_VOICES = [
 #    "en-US-DavisNeural",
