@@ -10,7 +10,7 @@ import random
 import os
 from voices_manager import TTSManager
 
-TWITCH_CHANNEL_NAME = 'dougdoug' # Replace this with your channel name
+TWITCH_CHANNEL_NAME = 'rcenato' # Replace this with your channel name
 
 socketio = SocketIO
 app = Flask(__name__)
